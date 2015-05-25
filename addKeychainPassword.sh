@@ -25,7 +25,7 @@ help () {
 	echo -e "\nPour afficher l'aide :"
 	echo -e "\t-h:                  affiche cette aide et quitte"
 	echo -e "\nParamètres obligatoires :"
-	echo -e "\t-m <mode> :          type de mot de passe dans le trouseau. Doit être 'generic' ou 'internet'"
+	echo -e "\t-m <mode> :          type de mot de passe dans le trousseau. Doit être 'generic' ou 'internet'"
 	echo -e "\t-a <account> :       contient le nom d'utilisateur (champ 'Compte' dans le trousseau)"
 	echo -e "\t-s <service> :       nom du service (champ 'Nom' dans le trousseau)"
 	echo -e "\t-p <password> :      mot de passe pour le Compte et le Service à ajouter"
